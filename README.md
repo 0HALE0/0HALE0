@@ -27,6 +27,7 @@ I'm **Hale**, a passionate software and industrial engineer from Turkey. I love 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hale-tanr%C4%B1verdi-35315620b/)

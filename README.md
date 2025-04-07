@@ -23,6 +23,9 @@ I'm **Hale**, a passionate software and industrial engineer from Turkey. I love 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?style=flat&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hale-tanr%C4%B1verdi-35315620b/)

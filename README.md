@@ -25,7 +25,7 @@ I'm **Hale**, a passionate software and industrial engineer from Turkey. I love 
 ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/haletanriverdi)
+- [LinkedIn](https://www.linkedin.com/in/hale-tanr%C4%B1verdi-35315620b/)
 
 > "The only way to do great work is to love what you do." – Steve Jobs
 

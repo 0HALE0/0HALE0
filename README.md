@@ -2,7 +2,7 @@
 
 I'm **Hale**, a passionate software and industrial engineer from Turkey. I love exploring new technologies and finding innovative solutions to complex problems!
 
-- 🔭 I’m currently working on a personal [Instagram-clone project](#).
+- 🔭 I’m currently working on a personal [Instagram-clone project](https://github.com/0HALE0/instagram-clone).
 - 🌱 I’m currently learning Next.js and about life!
 - 💬 Ask me about software engineering, industrial processes, or anything tech-related!
 - 📫 How to reach me: [hale.tanriverdi@gmail.com](mailto:hale.tanriverdi@gmail.com)

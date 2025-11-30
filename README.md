@@ -2,13 +2,13 @@
 
 I'm **Hale**, a passionate software and industrial engineer from Turkey. I love exploring new technologies and finding innovative solutions to complex problems!
 
-- 🔭 I’m currently working on a personal [Instagram-clone project](https://github.com/0HALE0/instagram-clone).
+- 🔭 I’m currently working on a personal [portfolio_project](https://haletanriverdi.com/).
 - 🌱 I’m currently learning Next.js and about life!
 - 💬 Ask me about software engineering, industrial processes, or anything tech-related!
 - 📫 How to reach me: [hale.tanriverdi@gmail.com](mailto:hale.tanriverdi@gmail.com)
 
 ### Fun Facts:
-- ⚡ I enjoy coding, skating, playing electronic guitar, visual thinking and design management.
+- ⚡ I enjoy coding, skating, boxing, playing electronic guitar and tennis, visual thinking and design management.
 - 🌍 I have a multinational perspective thanks to my Erasmus+ experience in Germany.
 
 ### Skills & Tools:
@@ -35,20 +35,3 @@ I'm **Hale**, a passionate software and industrial engineer from Turkey. I love 
 > "The only way to do great work is to love what you do." – Steve Jobs
 
 Thanks for visiting my profile! 😊✨
-<!--
-### GitHub Stats:
-![Hale's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-**0HALE0/0HALE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
